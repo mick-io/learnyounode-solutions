@@ -13,5 +13,8 @@
     "@types/node": "^16.11.12",
     "eslint": "^8.4.1",
     "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "strftime": "^0.10.0"
   }
 }
